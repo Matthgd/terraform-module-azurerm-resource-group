@@ -13,6 +13,6 @@ variable "location" {
 
 variable "tags" {
   type = map(string)
-  description = "Map contendo as tags obrigatórias da AMBEV."
+  description = ""
   default = null
 }
